@@ -1,4 +1,4 @@
-fs main(){
+fn main(){
 // signed and unsigned int
 let unsignedNum:u8 =12;
 let u_sint =12;
